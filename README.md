@@ -1,2 +1,4 @@
-# repositorio-Viernes1
-Ensayo1 viernes 230428 
+como crear repositorio en girhub 
+descargarlo y hacer cambios
+Oliver OPorras
+230428 05:50
